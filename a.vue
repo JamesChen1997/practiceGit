@@ -6,6 +6,7 @@
         dsfs
         dfs
         add from branch 1.0.0
+        git add from main
     </div>
 </template>
 <script>
